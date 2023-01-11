@@ -3,10 +3,10 @@
 REM Sets the server file to download
 set ServerFile="https://piston-data.mojang.com/v1/objects/c9df48efed58511cdd0213c56b9013a7b5c9ac1f/server.jar"
 
-REM Sets the maximum RAM for the server (4BG is default and recommended)
+REM Sets the maximum RAM for the server (4GB is default and recommended)
 set MaxRam=4
 
-REM Sets the minimum RAM for the server (2BG is default and recommended)
+REM Sets the minimum RAM for the server (2GB is default and recommended)
 set MinRam=2
 
 REM Creates a directory and enters it
