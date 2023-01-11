@@ -11,7 +11,7 @@ REM Creates a directory and enters it
 set cwd=%cd%
 REM Sets the new directory to the working directory
 
-curl %ServerFile% --output "%cwd%\server.jar"
+curl %ServerFile% --ssl-no-revoke --output "%cwd%\server.jar"
 start server.jar
 REM Downloads the server file and starts it
 
