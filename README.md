@@ -13,3 +13,4 @@ You can change the amount of RAM used by the server in the variable at the top o
 
 ## Create Paper Minecraft Server.bat
 This file is to create a PaperMC minecraft server.
+To create the latest version server, copy the link from the comment ```Paper```.
